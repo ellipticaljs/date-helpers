@@ -1,7 +1,7 @@
 {
   "name": "elliptical-date-helpers",
   "description": "Dust Date Helpers",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "dist/date.helpers.js",
   "authors": [
     "S. Francis"

@@ -1,7 +1,7 @@
 {
   "name": "elliptical-date-helpers",
   "description": "Dust Date Helpers",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "dustjs": "git+https://github.com/tachyon1337/dustjs.git",
-    "dustjs-helpers": "^1.7.3",
+    "elliptical-dust-helpers": "git+https://github.com/tachyon1337/elliptical-dust-helpers.git",
     "moment": "^2.10.6"
   },
   "devDependencies": {
