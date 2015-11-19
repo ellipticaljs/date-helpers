@@ -1,0 +1,27 @@
+{
+  "name": "elliptical-date-helpers",
+  "description": "Dust Date Helpers",
+  "version": "1.0.1",
+  "main": "dist/date.helpers.js",
+  "authors": [
+    "S. Francis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "dust",
+    "helpers"
+  ],
+  "homepage": "https://github.com/tachyon1337/elliptical-date-helpers",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "~2.10.6",
+    "elliptical-dust-helpers": "~1.0.1"
+  }
+}
