@@ -1,7 +1,7 @@
 {
   "name": "elliptical-date-helpers",
   "description": "Dust Date Helpers",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "dist/date.helpers.js",
   "authors": [
     "S. Francis"
@@ -38,7 +38,7 @@
     "demos"
   ],
   "dependencies": {
-    "moment": "~2.10.6",
-    "elliptical-dust-helpers": "~1.0.1"
+    "elliptical-dust-helpers": "~1.0.1",
+    "moment-import": "~1.0.0"
   }
 }
